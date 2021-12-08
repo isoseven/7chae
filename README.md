@@ -1,6 +1,6 @@
-### Hi! I'm Steven Chae, but you can just call me Seven. 👋 
+### Hi! I'm ////// ////, but you can just call me Seven. 👋 
 <br> I am:
-- currently a sophomore at Johns Creek High School.
+- currently a sophomore.
 - just coding as a hobby (as well as taking a class).
 - a professional [tetris](https://ch.tetr.io/wyvr/) player.
 - currently learning how to code in C.
